@@ -1,0 +1,14 @@
+- node_modeles 第三方包的存储目录
+- public 存放不需要编译构建，纯静态资源
+- src 所有需要打包构建的文件都存储在 src 文件下
+- assets 存放需要构建的静态资源
+### 手动新增文件夹
+- api 存放接口封装模块
+- styles 存放全局样式
+- utils 存放工具相关文件
+- plugins 存放自定义指令，给vue注册的插件（待了解）
+- views 存放路由页面
+- router 存放路由相关模块
+- store 存放vuex相关模块
+- layout 布局，存放公共布局组件
+- composables 存放组合式api的封装（待了解）
